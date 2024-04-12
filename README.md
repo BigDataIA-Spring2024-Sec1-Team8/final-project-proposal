@@ -14,19 +14,19 @@ MarketMind is set to transform how businesses access and utilize consumer data, 
 
 ## Architecture Diagram
 **Supplier Data Pipeline**
-![image]()
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Supplier%20Data%20Pipeline.png)
 
 **Customer Review Pipeline**
-![image]()
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Customer%20Review%20Pipeline.png)
 
 **Customer Query Answering Pipeline**
-![image]()
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Customer%20Query%20Answering%20Pipeline.png)
 
 **Image Based Query Processing Pipeline**
-![image]()
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Image%20Based%20Query%20Pipeline.png)
 
 **Additional Personalization Pipeline**
-![image]()
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Additional%20Personalization%20Pipeline.png)
 
 ## Contributions
 -Sai Durga Mahesh Bandaru - 33.3%
