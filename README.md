@@ -12,6 +12,22 @@ MarketMind is set to transform how businesses access and utilize consumer data, 
 - Google Codelabs - https://codelabs-preview.appspot.com/?file_id=1pRm59ElUkxoqgvT62tF9CEygV7fJEHx4JsTQossEerM#2
 
 
+## Architecture Diagram
+**Supplier Data Pipeline**
+![image]()
+
+**Customer Review Pipeline**
+![image]()
+
+**Customer Query Answering Pipeline**
+![image]()
+
+**Image Based Query Processing Pipeline**
+![image]()
+
+**Additional Personalization Pipeline**
+![image]()
+
 ## Contributions
 -Sai Durga Mahesh Bandaru - 33.3%
 
