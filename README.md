@@ -4,7 +4,7 @@
 MarketMind is an innovative analytics platform designed to transform e-commerce through advanced data aggregation and intelligent analysis. This platform aims to enhance business strategies and consumer engagement by providing real-time insights and personalized product recommendations through a user-friendly conversational interface. It employs cutting-edge machine learning to understand user preferences and taps into customer reviews for a deeper sentiment analysis, enabling businesses to better grasp market demands and customer satisfaction. Emphasizing accessibility, MarketMind offers a seamless user experience, making sophisticated big data analytics available to businesses of all sizes. Built on a scalable cloud infrastructure, it promises to not only streamline the e-commerce experience but also make big data analytics more accessible in the bustling e-commerce arena.
 
 ## Project Resources
-[![Google Codelabs](https://img.shields.io/badge/-Google%20Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1pRm59ElUkxoqgvT62tF9CEygV7fJEHx4JsTQossEerM#2)
+[![Google Codelabs](https://img.shields.io/badge/-Google%20Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1pRm59ElUkxoqgvT62tF9CEygV7fJEHx4JsTQossEerM#0)
 
 ## Tech Stack
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
