@@ -23,8 +23,8 @@ MarketMind is set to transform how businesses access and utilize consumer data, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Architecture Diagram
-![image](![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/assets/114782541/8d90aa23-27e9-48d7-86b2-763036d65b23)
-)
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/assets/114782541/8d90aa23-27e9-48d7-86b2-763036d65b23)
+
 
 The "MarketMind" architecture combines a Streamlit-powered frontend with a FastAPI and Snowflake backend, all hosted on AWS for robust scalability. This smart e-commerce analytics system uses a chatbot interface for user interaction, processes queries for personalized product matching, and employs OpenAI for enriching content and summarizing data. Automated data extraction, cleaning, and embedding enable the platform to transform raw e-commerce data into insightful, user-friendly outputs.
 
