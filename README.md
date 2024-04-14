@@ -9,24 +9,23 @@ MarketMind is set to transform how businesses access and utilize consumer data, 
 
 
 ## Project Resources
-- Google Codelabs - https://codelabs-preview.appspot.com/?file_id=1pRm59ElUkxoqgvT62tF9CEygV7fJEHx4JsTQossEerM#2
+[![Google Codelabs](https://img.shields.io/badge/-Button%20Label-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1pRm59ElUkxoqgvT62tF9CEygV7fJEHx4JsTQossEerM#2)
 
+## Tech Stack
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Architecture Diagram
-**Supplier Data Pipeline**
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Supplier%20Data%20Pipeline.png)
+![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/assets/114782541/c3d7e61d-3a10-4842-b598-d4aab235638f)
 
-**Customer Review Pipeline**
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Customer%20Review%20Pipeline.png)
-
-**Customer Query Answering Pipeline**
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Customer%20Query%20Answering%20Pipeline.png)
-
-**Image Based Query Processing Pipeline**
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Image%20Based%20Query%20Pipeline.png)
-
-**Additional Personalization Pipeline**
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/final-project-proposal/blob/main/Additional%20Personalization%20Pipeline.png)
+The "MarketMind" architecture combines a Streamlit-powered frontend with a FastAPI and Snowflake backend, all hosted on AWS for robust scalability. This smart e-commerce analytics system uses a chatbot interface for user interaction, processes queries for personalized product matching, and employs OpenAI for enriching content and summarizing data. Automated data extraction, cleaning, and embedding enable the platform to transform raw e-commerce data into insightful, user-friendly outputs.
 
 ## Contributions
 -Sai Durga Mahesh Bandaru - 33.3%
